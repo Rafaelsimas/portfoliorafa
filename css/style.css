@@ -33,6 +33,9 @@ form input[type="submit"]:hover {
 
 .flex {
   display: flex;
+
+  width: 90%;
+  margin-inline: auto;
 }
 
 .btn-contato button {
